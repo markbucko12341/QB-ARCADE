@@ -16,7 +16,8 @@ Arcade script for Qb
 
 
 ***add this to ms-peds-dev***
-	--arcade ped 
+	
+--arcade ped 
 	{
 		model = `cs_lifeinvad_01`, -- Model name as a hash.
 		coords = vector4(334.63, -907.82, 29.26, 70.05),
