@@ -1,5 +1,5 @@
 # QB-ARCADE
-Arcade script for Qb
+Arcade script for Qb fully working with Qb target .. also includes multiplayer games with friends 
 
 
 # Required
